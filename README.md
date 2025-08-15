@@ -244,6 +244,6 @@ npm run dist:linux   # Linux
 
 ---
 
-**개발팀**: Claude Code  
+**개발팀**: Music Downloader Team  
 **버전**: 1.0.0  
 **마지막 업데이트**: 2025년 1월

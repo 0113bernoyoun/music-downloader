@@ -113,6 +113,6 @@ docs/test/task-X.X-[기능명]-test-report.md
 
 ---
 
-**관리자**: Claude Code 개발팀  
+**관리자**: Music Downloader Team  
 **마지막 업데이트**: 2025년 1월  
 **문서 버전**: 1.0.0
