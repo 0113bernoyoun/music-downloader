@@ -8,6 +8,7 @@
 - **TypeScript 5.0.0** - 정적 타입 검사 및 개발 생산성
 - **React 18.2.0** - 사용자 인터페이스 라이브러리
 - **Material-UI 5.14.0** - UI 컴포넌트 프레임워크
+- **Magic UI Components** - AI 기반 현대적 UI 컴포넌트 라이브러리
 
 ### 1.2 빌드 및 개발 도구
 - **Vite 4.0.0** - 빌드 도구 및 개발 서버
@@ -19,6 +20,9 @@
 - **youtube-dl-exec 2.5.6** - 다운로드 엔진
 - **ffmpeg-static 5.2.0** - 오디오 처리 및 변환
 - **@emotion/react & @emotion/styled** - CSS-in-JS 스타일링
+- **Tailwind CSS** - 유틸리티 우선 CSS 프레임워크 (Magic UI 컴포넌트용)
+- **Lucide React** - 현대적 아이콘 라이브러리
+- **Framer Motion** - 애니메이션 및 상호작용
 
 ## 2. 아키텍처 설계
 

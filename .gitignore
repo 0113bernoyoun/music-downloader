@@ -124,6 +124,37 @@ Thumbs.db
 tmp/
 temp/
 
+# Development scripts and test files
+dev-scripts/
+test-phase*/
+
+# Downloaded test files
+*.mp3
+*.wav
+*.mp4
+*.webm
+
 # ffmpeg binaries (handled by build process)
 ffmpeg/
 youtube-dl/
+
+# Electron build outputs
+out/
+app/
+app-*/
+
+# Platform specific
+*.app
+*.dmg
+*.zip
+*.tar.gz
+
+# Jest coverage reports
+coverage/
+.nyc_output/
+
+# Prettier cache
+.prettiercache
+
+# ESLint cache
+.eslintcache
